@@ -6,7 +6,7 @@ Stáhnětě repozitář jako zip file. Po stáhnutí zip filu ho extrahujte a v 
 # Základní info
 Žánr: 2D platformer
 <br></br>
-Výrobce: Miroslav Merta
+Vydavatel: Miroslav Merta
 <br></br>
 Assety: všechny použity z unity storu nebo vyrobeny sami
 <br></br>
