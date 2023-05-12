@@ -15,6 +15,8 @@ Doprava a doleva: a + d, nebo <- + ->
 <br></br>
 Skákání: space nebo w
 # Základní featury
+Obsahuje 10 levelů + tutoriál
+<br></br>
 Pohybující se platformy, pohybující se pasti
 <br></br>
 Text ukazující kolik collectablů potřebuje hráč pro posun do dalšího levelu
