@@ -1,7 +1,7 @@
 # THE-adventure
 Game project for school
 # Jak zprovoznit
-
+Stáhnětě repozitář jako zip file. Po stáhnutí zip filu ho extrahujte a v souboru zapnětě THE adventure.exe pro spuštění hry.
 <br></br>
 # Základní info
 Žánr: 2D platformer
