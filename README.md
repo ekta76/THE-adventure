@@ -11,6 +11,8 @@ Assety: všechny použity z unity storu nebo vyrobeny sami
 Vyrobeno: v Unity enginu
 # Ovládání
 Doprava a doleva: a + d, nebo <- + ->
+<br></br>
+Skákání: space nebo w
 # Hlavní featury
 Pohybující se platformy, pohybující se pasti
 <br></br>
