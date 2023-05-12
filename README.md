@@ -8,6 +8,7 @@ Výrobce: Miroslav Merta
 <br></br>
 Assety: všechny použity z unity storu nebo vyrobeny sami
 <br></br>
+Vyrobeno: v Unity enginu
 # Ovládání
 Doprava a doleva: a + d, nebo <- + ->
 # Hlavní featury
