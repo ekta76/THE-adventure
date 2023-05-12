@@ -17,6 +17,8 @@ Skákání: space nebo w
 # Hlavní featury
 Obsahuje 10 levelů + tutoriál
 <br></br>
+Všechny levely a menu (kromě Level selectu) mají muziku
+<br></br>
 Pohybující se platformy, pohybující se pasti
 <br></br>
 Text, v levo nahoře obrazovky, ukazující kolik collectablů potřebuje hráč pro posun do dalšího levelu
