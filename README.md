@@ -1,5 +1,7 @@
 # THE-adventure
 Game project for school
+# Jak zprovoznit
+
 <br></br>
 # Základní info
 Žánr: 2D platformer
