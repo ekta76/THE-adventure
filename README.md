@@ -3,10 +3,8 @@ Game project for school
 # Jak zprovoznit
 Stáhnětě repozitář jako zip file. Po stáhnutí zip filu ho extrahujte a v souboru zapnětě THE adventure.exe pro spuštění hry.
 # Základní info
-Žánr: 2D platformer
-<br></br>
-Vydavatel: Miroslav Merta
-<br></br>
+Žánr: 2D platformer<br></br>
+Vydavatel: Miroslav Merta<br></br>
 Assety: všechny použity z unity storu nebo vyrobeny sami
 <br></br>
 Vyrobeno: v Unity enginu
